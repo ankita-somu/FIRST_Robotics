@@ -1,0 +1,4 @@
+#Sun Nov 12 15:54:54 EST 2017
+base.0=C\:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\TeamCode\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\TeamCode\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\chimedisconnect.wav",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\raw\\chimedisconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\nxtstartupsound.wav",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\raw\\nxtstartupsound.wav"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\color_fragment_shader.glsl",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\c831cb053e9eccd77b426de7e9709d28\\res\\raw\\color_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\warningmessage.wav",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\raw\\warningmessage.wav"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\c831cb053e9eccd77b426de7e9709d28\\res\\raw\\cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\texture_fragment_shader.glsl",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\c831cb053e9eccd77b426de7e9709d28\\res\\raw\\texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\errormessage.wav",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\raw\\errormessage.wav"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\texture_vertex_shader.glsl",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\c831cb053e9eccd77b426de7e9709d28\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\cube_mesh_fragment_shader.glsl",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\c831cb053e9eccd77b426de7e9709d28\\res\\raw\\cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\chimeconnect.wav",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\raw\\chimeconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\simple_vertex_shader.glsl",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\c831cb053e9eccd77b426de7e9709d28\\res\\raw\\simple_vertex_shader.glsl"
+    }
+]

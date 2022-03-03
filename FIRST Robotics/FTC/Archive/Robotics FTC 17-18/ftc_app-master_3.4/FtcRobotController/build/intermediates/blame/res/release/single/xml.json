@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\rev_scoot.xml",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\xml\\rev_scoot.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\app_settings.xml",
+        "source": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\src\\main\\res\\xml\\app_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\maxmodules.xml",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\xml\\maxmodules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\advanced_rc_settings.xml",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\xml\\advanced_rc_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\xml\\k9usbbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\pushbot.xml",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\pushbotsens.xml",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\device_filter.xml",
+        "source": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaush\\Documents\\ftc_app-master_v3.4\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\squarebot.xml",
+        "source": "C:\\Users\\kaush\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\7b28d6ca56516e5362586c47ec86cb1a\\res\\xml\\squarebot.xml"
+    }
+]
